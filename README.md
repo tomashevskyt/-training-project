@@ -1,2 +1,2 @@
 # -training-project
-Учебный проект (Barbershop)
+Barbershop
